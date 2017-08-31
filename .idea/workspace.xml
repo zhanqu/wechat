@@ -1,7 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2266b05c-3579-45a4-970e-da0f4c90c634" name="Default" comment="" />
+    <list default="true" id="2266b05c-3579-45a4-970e-da0f4c90c634" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/zq.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Bridge/CacheTrait.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Bridge/Http.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Bridge/Serializer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Bridge/Util.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Bridge/XmlResponse.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Event/Event.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Event/Event/Image.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Event/Event/Link.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Event/Event/Location.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Event/Event/MenuClick.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Event/Event/MenuView.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Event/Event/ScanSubscribe.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Event/Event/ScanSubscribed.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Event/Event/ShortVideo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Event/Event/Subscribe.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Event/Event/Text.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Event/Event/Unsubscribe.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Event/Event/UserLocation.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Event/Event/Voice.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Event/EventHandler.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Event/EventHandlerInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Event/EventListener.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Event/EventListenerInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Menu/Button.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Menu/ButtonCollection.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Menu/ButtonCollectionInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Menu/ButtonInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Menu/Create.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Menu/Delete.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Menu/Query.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Message/Entity.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Message/Entity/Article.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Message/Entity/ArticleItem.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Message/Entity/Image.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Message/Entity/Music.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Message/Entity/Text.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Message/Entity/Video.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Message/Entity/Voice.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Message/Template/Sender.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Message/Template/Template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Message/Template/TemplateInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/OAuth/AbstractClient.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/OAuth/AccessToken.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/OAuth/Client.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/OAuth/Qrcode.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/OAuth/StateManager.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Payment/Address/ConfigGenerator.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Payment/Coupon/Cash.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Payment/Jsapi/ConfigGenerator.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Payment/Jsapi/PayChoose.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Payment/Jsapi/PayRequest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Payment/Notify.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Payment/Qrcode/Forever.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Payment/Qrcode/ForeverCallback.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Payment/Qrcode/Temporary.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Payment/Query.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Payment/Unifiedorder.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/User/Group.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/User/Remark.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/User/User.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Wechat/AccessToken.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Wechat/Jsapi.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Wechat/Jsapi/Ticket.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Wechat/Qrcode.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Wechat/Qrcode/Ticket.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Wechat/ServerIp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/src/Wechat/ShortUrl.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +94,20 @@
     <favorites_list name="zq" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="Ticket.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Wechat/Jsapi/Ticket.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+              <folding>
+                <element signature="e#46#76#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,6 +119,7 @@
         <option value="$PROJECT_DIR$/lib/wechat/Payment/Notify.php" />
         <option value="$PROJECT_DIR$/wechat/README.md" />
         <option value="$PROJECT_DIR$/wechat/composer.json" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -40,10 +131,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="57" />
-    <option name="y" value="112" />
-    <option name="width" value="1863" />
-    <option name="height" value="968" />
+    <option name="x" value="45" />
+    <option name="y" value="24" />
+    <option name="width" value="1875" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -61,7 +152,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -74,8 +164,63 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zq" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zq" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Wechat" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zq" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zq" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Wechat" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Jsapi" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zq" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zq" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -83,6 +228,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../zq" />
+    <property name="nodejs_interpreter_path" value="/usr/bin/node" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -167,23 +314,24 @@
       <workItem from="1501034647131" duration="18000" />
       <workItem from="1501141068005" duration="614000" />
       <workItem from="1503308180955" duration="16000" />
+      <workItem from="1504150703521" duration="1893000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5262000" />
+    <option name="totallyTimeSpent" value="7155000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="57" y="112" width="1863" height="968" extended-state="0" />
+    <frame x="45" y="24" width="1875" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3272927" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33060557" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45360824" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45369408" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -266,13 +414,6 @@
     <entry file="file://$PROJECT_DIR$/lib/wechat/composer.json" />
     <entry file="file://$PROJECT_DIR$/lib/wechat/LICENSE" />
     <entry file="file://$PROJECT_DIR$/lib/wechat/README.md" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LICENSE">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -305,6 +446,24 @@
             <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Wechat/Jsapi/Ticket.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding>
+            <element signature="e#46#76#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
